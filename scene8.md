@@ -13,7 +13,7 @@ After a moment passes,  one memnber of the crowd asks you if you would rather pa
 
 Another one of your friends asks you if you would like to 
 decline both and continue to practice jump shooting.
-
+# What direction will you head?
 
 -:BASKETBALL: [Join the  dunking contest](scene9A.md)
 -:TROPHY: [Join the three point shooting contest](scene9B.md) -[Decline and continue practicing jumpshots] (scene9C.md)
