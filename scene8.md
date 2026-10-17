@@ -18,4 +18,4 @@ decline both and continue to practice jump shooting.
 -:BASKETBALL: [Join the  dunking contest](scene9A.md)
 -:TROPHY: [Join the three point shooting contest](scene9B.md) 
 
- -[Decline and continue practicing jumpshots](scene9C.md)
+ -[Decline and continue practicing jumpshots](scene13B.md)
