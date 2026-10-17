@@ -12,7 +12,7 @@
 
 🏀-[Participate in a professional dunk competition for monetary incentive](Ending2.md)
 
-✅-[Decline the contract for the dunk competition](Scene13A)
+✅-[Decline the contract for the dunk competition](scene13Z)
 
 ✅
 🏆
