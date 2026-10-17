@@ -9,6 +9,6 @@ The weather is perfect at the newest built court at your local beach. Their are 
 🌊
 🌊What direction will you head?
 🌊
-🦀- [Ask to pick up a game with the NBA legends](Scene13Z.md)
+🦀- [Ask to pick up a game with the NBA legends](scene13Z.md)
 
 🦀-[Ask to pick up a game with some local players](scene13B.md)
