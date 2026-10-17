@@ -11,5 +11,5 @@ The crowd is electric where everyone is appears to be totally excited for what a
 # What direction will you head? 
  
  -🏀 [Perform a 360 windmill dunk on first round](scene10A.md)
- -🏆 [Perform a tomahawk dunk from the free throw line](scene10B)
- -🏀 [Perform a reverse double pump tomahawk slam dunk](scene10C)
+ -🏆 [Perform a tomahawk dunk from the free throw line](scene10B.md)
+ -🏀 [Perform a reverse double pump tomahawk slam dunk](scene10C.md)

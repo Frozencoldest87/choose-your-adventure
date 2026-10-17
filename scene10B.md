@@ -11,4 +11,4 @@ The weather is perfect at the newest built court at your local beach. Their are 
 🌊
 🦀- [Ask to pick up a game with the NBA legends](Scene13A)
 
-🦀-[Ask to pick up a game with some local young talent](scene13B)
+🦀-[Ask to pick up a game with some local players ](scene13B)
