@@ -9,5 +9,5 @@ After continually taking initiative to show leadership, maximize downtime during
 ✅
 The High School coach presents the opportunity of substituting for him during a family emergency that he encountered.During this time you were recovering from a injury.
 # What direction will you head?
-🏀-[You accept the opportunity](scene15A)
+🏀-[You accept the opportunity](scene15A.md)
 🏀-[You respectfully decline](Ending3.md)
