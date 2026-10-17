@@ -12,4 +12,4 @@ The only reason your hesitating is because you were unsure of a recovery status 
 # What direction will you head? 
 ✅-[Participate in the 5 v 5](Ending1.md)
 ✅-[Decline due to injury concern](Ending3.md)
-🚀-[Participate in the 5 V 5 with a coaching/player mindset](scene15B)
+🚀-[Participate in the 5 V 5 with a coaching/player mindset](scene15B.md)
