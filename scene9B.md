@@ -11,5 +11,9 @@ After several months of consistent long range shooting, your coach approaches yo
 ## What selection is most beneficial for your aspirations?✅
 
 -✅ [Accept a shoe sponsorship as a High School Student](scene12a.md)
+
+
 -🏆 [Decline and continue practicing fundamentals of additional phases of the game](scene12B.md)
+
+
 -🏀 [Decline and enhance research on team basketball dynamics](scene12C.md)
