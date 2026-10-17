@@ -17,6 +17,6 @@ What direction will you head?
 
 -👟 [Elect international shoe contract](scene15C.md)
 
-👟 [Decide to deny both offers](scene14.md)
+👟 [Decide to deny both offers](scene14A.md)
 
 👟

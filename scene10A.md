@@ -11,7 +11,7 @@
 
  ## What will you choose?
 
-🏀-[Participate in a professional dunk competition for monetary incentive](Ending2.md)
+🏀-[Participate in a professional dunk competition for monetary incentive](scene13B.md)
 
 ✅-[Decline the contract for the dunk competition](scene13Z.md)
 
