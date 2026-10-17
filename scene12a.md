@@ -13,9 +13,9 @@ Before you enter the mall, you are approached my several shoe endorsement repres
 What direction will you head?
 
 
--👟 [Elect domestic shoe contract](scene15B)
+-👟 [Elect domestic shoe contract](scene15B.md)
 
--👟 [Elect international shoe contract](scene15C)
+-👟 [Elect international shoe contract](scene15C.md)
 👟
 
 👟
