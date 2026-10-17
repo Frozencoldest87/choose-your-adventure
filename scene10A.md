@@ -1,5 +1,6 @@
 ## Hoop Dreams - Chronicles 🏀 ✅ 🚀
 
+# Scene 10A: Dunk
 🚀
  ✅After successfully winning last months dunk contest. In totality, their was amazing dunks from all participants but nothing compared to the 360 tomahawk that you successfully executed.
 
@@ -12,7 +13,7 @@
 
 🏀-[Participate in a professional dunk competition for monetary incentive](Ending2.md)
 
-✅-[Decline the contract for the dunk competition](scene13Z)
+✅-[Decline the contract for the dunk competition](scene13Z.md)
 
 ✅
 🏆
