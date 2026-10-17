@@ -12,7 +12,7 @@
 What direction will you head?
 
 ✅ [Accept the invitation to view the Phoenix Suns](scene13C.md)
-🏆 [Decline the invitation](Ending2.md)
+🏆 [Decline the invitation](scene12a.md)
 
 🏀
 

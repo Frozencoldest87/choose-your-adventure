@@ -10,6 +10,6 @@ As you begin a conversation with your friend, the two of you also migrate to the
 The principal of the High School approaches you and recommends that you join in on the 5 v 5 that is current to at least make an impact on the scouts.
 The only reason your hesitating is because you were unsure of a recovery status of a recent injury.
 # What direction will you head? 
-✅-[Participate in the 5 v 5](Ending1.md)
+✅-[Participate in the 5 v 5](scene13Z.md)
 ✅-[Decline due to injury concern](Ending3.md)
 🚀-[Participate in the 5 V 5 with a coaching/player mindset](scene15B.md)
